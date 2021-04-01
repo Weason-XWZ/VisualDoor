@@ -1,0 +1,4 @@
+---- console_start Matches (3 in 3 files) ----
+console.c (src\console) line 353 : int console_start(console_param_t *param)
+console.h (include\console) line 55 : int console_start(console_param_t *param);
+platform_init_level1 in platform_init.c (project\common\framework) : 	console_start(&cparam);
